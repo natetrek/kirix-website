@@ -1,6 +1,6 @@
-## Multipage Brochure Website Template
+## Kirix Website
 
-Minimal starter template for a multipage brochure website using Vite, Vue 3, and Tailwind CSS
+Website for the Kirix open source project
 
 ### Installation and setup
 
